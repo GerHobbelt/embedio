@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Description>Testing library for EmbedIO web server</Description>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFrameworks>netstandard2.1</TargetFrameworks>
   </PropertyGroup>
 
   <ItemGroup>
